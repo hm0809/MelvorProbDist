@@ -1,4 +1,4 @@
-# probabilityDist
+# Melvor Idle - Probability Distributions
 Prob Dist Calculator
 
 **Who is this calculator for?**
