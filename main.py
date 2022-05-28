@@ -80,5 +80,6 @@ def describe_probability():
     Unless you have a supercomputer don't uncomment the plt.show, saving as an svg or png is faster, easier and better! 
     """
     #plt.show()
+    print(str(df.describe(percentiles=[0.01, 0.05, .25, .5, .75, 0.95, 0.99])))
 if __name__ == '__main__':
     describe_probability()
