@@ -24,19 +24,19 @@ CPU-Usage: '1' - (low - only for very low probability tests), '2' - (medium), '3
 ## Probabilities are entered in decimal form where p is a number from 0 -> 1. If you have percentage values, just divide by 100.
 
 What is the name of item 1? Ancient Helmet
-What is the drop rate (0 < p <= 1) of helm? 0.00415
+What is the drop rate (0 < p <= 1) of Ancient Helmet? 0.00415
 Any more items? Enter any key if yes, otherwise enter 'n': 
 
 What is the name of item 2? Ancient Shield
-What is the drop rate (0 < p <= 1) of s? 0.00415
+What is the drop rate (0 < p <= 1) of Ancient Shield? 0.00415
 Any more items? Enter any key if yes, otherwise enter 'n': 
 
 What is the name of item 3? Ancient Leggings
-What is the drop rate (0 < p <= 1) of sd? 0.0028
+What is the drop rate (0 < p <= 1) of Ancient Leggings? 0.0028
 Any more items? Enter any key if yes, otherwise enter 'n': 
 
 What is the name of item 4? Ancient Platebody
-What is the drop rate (0 < p <= 1) of sd? 0.0028
+What is the drop rate (0 < p <= 1) of Ancient Platebody? 0.0028
 Any more items? Enter any key if yes, otherwise enter 'n': n
 
 #returns
