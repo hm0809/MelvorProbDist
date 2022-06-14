@@ -68,6 +68,7 @@ Count is number of times that the simulation ran, i.e. the amount of times the s
 for the statistical calculations.
 
 Max is the most amount of attempts observed for a particular drop rate. Or the 'unluckiest' simulation out of the 'count'.
+
 Min is the least amount of attempts observed for a particular drop rate. Or the 'luckiest' simulation out of the 'count'.
 
 ***What does '1%, 5%, 25%, 75%, 95%, 99%' mean?***
