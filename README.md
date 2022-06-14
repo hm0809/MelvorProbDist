@@ -55,14 +55,14 @@ Any more items? Enter any key if yes, otherwise enter 'n': n
 ![distribution](https://user-images.githubusercontent.com/47137792/170841934-b9b272cf-3f36-4633-9594-b15bfce7f99b.svg)
 
 **How to interpret this graph**
-
-*What does 'mean', mean?*
+--------------------------------
+***What does 'mean', mean?***
 
 Mean is a measure of the average amount of attempts that it will take before the drop-rate is reached.
 
 It is not necessarily what you will experience, it is just a statistical calculation of the best-estimate.
 
-*What does 'max, min, count' mean?*
+***What does 'max, min, count' mean?***
 
 Count is number of times that the simulation ran, i.e. the amount of times the script succeeded in acquiring the drops specified and the sample size
 for the statistical calculations.
@@ -70,7 +70,7 @@ for the statistical calculations.
 Max is the most amount of attempts observed for a particular drop rate. Or the 'unluckiest' simulation out of the 'count'.
 Min is the least amount of attempts observed for a particular drop rate. Or the 'luckiest' simulation out of the 'count'.
 
-*What does '1%, 5%, 25%, 75%, 95%, 99%' mean?*
+***What does '1%, 5%, 25%, 75%, 95%, 99%' mean?***
 
 These percentages are a measure of percentile. If the 75% value was 250, then after 250 attempts, you can be 75% sure that you will have received your drop/s.
 Same goes for all other percentiles, if the 1% value was 10, then only 1% of simulations received the drop/s after 10 attempts. 
