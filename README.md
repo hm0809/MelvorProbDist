@@ -74,6 +74,7 @@ Min is the least amount of attempts observed for a particular drop rate. Or the 
 ***What does '1%, 5%, 25%, 75%, 95%, 99%' mean?***
 
 These percentages are a measure of percentile. If the 75% value was 250, then after 250 attempts, you can be 75% sure that you will have received your drop/s.
+
 Same goes for all other percentiles, if the 1% value was 10, then only 1% of simulations received the drop/s after 10 attempts. 
 
 
