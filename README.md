@@ -85,3 +85,5 @@ I've found this especially useful for figuring out how long its gonna take to gr
 
 
 If you have **any** questions, message me on discord: **Dat Boi#4596**
+
+Currently, I am offering a service to program a script such as this one (independent standalone python script) for any purpose - it can be Melvor or it can be something entirely different. Message me on discord for inquiries: **Dat Boi#4596**
